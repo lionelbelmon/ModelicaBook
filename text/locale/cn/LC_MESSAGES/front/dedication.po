@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../source/front/dedication.rst:11
 msgid ""
-"This book started as a Kickstarter project.  The idea of writing a book and "
+"我们试一下.可不可以翻译?  The idea of writing a book and "
 "making it freely available, under a Creative Commons license, was largely "
 "inspired by the writings of Cory Doctorow and Lawrence Lessig.  Their "
 "message of sharing resonated very strongly with me. I'm not interested in "
